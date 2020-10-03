@@ -1,0 +1,71 @@
+*{
+    text-transform: capitalize;
+}
+.navbar-brand{
+    color: #fff !important;
+}
+.navbar-light .navbar-nav .nav-link{
+color: #fff !important;
+}
+h1{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem !important;
+}
+h3{
+    font-family: 'Crimson Text', serif;
+    font-size: 1rem !important;
+}
+#header{
+    background-color: #ff4b5c;
+    padding-bottom: 15px;
+    
+}
+p, h3{
+    font-family: 'Sansita Swashed', cursive;
+}
+#home h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#home{
+    padding: 3% 10%;
+}
+.header-text{
+    color:#fff;
+    padding-top:90px ;
+}
+.header-image{
+    padding-left: 100px;
+}
+#order{
+    text-align: center;
+    padding-bottom:15%;
+    padding-top: 3%;
+}
+#contact{
+    color: #fff;
+    padding: 5% 15%;
+    background-color: #ed6663;
+}
+.contact-img{
+    padding-right: 90px;
+}
+.contact-text h1 {
+    padding-top: 25px;
+    font-size: 2rem !important;
+}
+.contact-text{
+    padding-top: 40px;
+}
+#footer{
+    text-align: center;
+}
+.foot{
+    color: #fff;
+    background-color: #dd403d;
+    padding: 20px;
+}
+.foot h3{
+    font-size: 15px;
+}
